@@ -47,18 +47,6 @@ My recent work focuses on AI-assisted automation testing, pytest-based workflows
 | Engineering | Docker, Jenkins, Git, CI/CD |
 | Performance Testing | JMeter, Locust |
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=buer2233&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buer2233&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buer2233&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
 ## Contact
 
 - Email: [dwanpeng@gmail.com](mailto:dwanpeng@gmail.com)

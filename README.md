@@ -25,14 +25,6 @@
 
 8 年软件测试经验，其中 5 年深耕自动化测试与测试开发。近 2 年重点投入 AI + 自动化测试落地，围绕接口自动化、UI 自动化、测试平台、Claude Code / Codex SKILL、Harness Engineering 等方向持续实践。
 
-当前重点方向：
-
-- AI + 接口自动化测试
-- pytest / requests / Playwright / Selenium 自动化测试体系
-- Claude Code / Codex / SKILLS / Harness Engineering
-- DRF + Vue 测试平台开发
-- AI Agent 驱动的测试工具与效率提升
-
 ## 核心优势
 
 - 8 年测试经验，覆盖功能测试、接口自动化、UI 自动化、移动端自动化、性能测试。
@@ -62,23 +54,6 @@
 - 语雀测试开发知识库：[https://www.yuque.com/bbuer/cskf](https://www.yuque.com/bbuer/cskf)
 - 语雀 AI 知识库：[https://www.yuque.com/bbuer/ebdyfe](https://www.yuque.com/bbuer/ebdyfe)
 
-## GitHub 数据
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=buer2233&show_icons=true&theme=github_dark&hide_border=true&locale=cn" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buer2233&layout=compact&theme=github_dark&hide_border=true&locale=cn" alt="Top languages" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=buer2233&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buer2233&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
 ## 联系方式
 
 - Email: [dwanpeng@gmail.com](mailto:dwanpeng@gmail.com)
-
-## 个人简历
-
-https://www.yuque.com/bbuer/cskf/lck2cohw32a104gq?singleDoc# 《个人简历-邓万鹏》
