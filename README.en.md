@@ -47,14 +47,6 @@ My recent work focuses on AI-assisted automation testing, pytest-based workflows
 | Engineering | Docker, Jenkins, Git, CI/CD |
 | Performance Testing | JMeter, Locust |
 
-## Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [api-test-dwp](https://github.com/buer2233/api-test-dwp) | An AI-assisted API automation SKILL system for writing and maintaining API test cases with Claude Code / Codex. |
-| [api-test-platform](https://github.com/buer2233/api-test-platform) | An AI-driven API automation testing platform project focused on generation, execution, feedback, and repair loops. |
-| [ai-test-platform](https://github.com/buer2233/ai-test-platform) | An AI-driven automation testing platform project for task management, execution results, report analysis, and platform workflows. |
-| [browser-use based UI automation](https://gitee.com/buer2233/browser-use) | A browser automation exploration based on browser-use, Playwright, and LangChain for natural-language-driven UI testing. |
 
 ## GitHub Stats
 
@@ -69,6 +61,4 @@ My recent work focuses on AI-assisted automation testing, pytest-based workflows
 
 ## Contact
 
-- GitHub: [https://github.com/buer2233](https://github.com/buer2233)
 - Email: [dwanpeng@gmail.com](mailto:dwanpeng@gmail.com)
-- CSDN: [https://blog.csdn.net/m0_56232078](https://blog.csdn.net/m0_56232078)
