@@ -52,8 +52,7 @@
 
 - CSDN 博客：[https://blog.csdn.net/m0_56232078](https://blog.csdn.net/m0_56232078)
 - 语雀测试开发知识库：[https://www.yuque.com/bbuer/cskf](https://www.yuque.com/bbuer/cskf)
-- 语雀 AI 知识库：[https://www.yuque.com/bbuer/ebdyfe](https://www.yuque.com/bbuer/ebdyfe)
 
-## 联系方式
+## 邮箱
 
 - Email: [dwanpeng@gmail.com](mailto:dwanpeng@gmail.com)
